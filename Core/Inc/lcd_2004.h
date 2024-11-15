@@ -2,7 +2,7 @@
  * lcd_2004_i2c.h
  *
  *  Created on: Sep 20, 2024
- *      Author: harri
+ *      Author: Muhammad Haris Mujeeb
  */
 
 #ifndef INC_LCD_2004_H_
